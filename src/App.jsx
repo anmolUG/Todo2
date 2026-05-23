@@ -15,6 +15,7 @@ import {
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import TodoApp from './components/TodoApp';
+const invalidVariable = ;
 
 const Section = ({ children, className = "" }) => (
   <section className={`py-20 px-6 ${className}`}>
